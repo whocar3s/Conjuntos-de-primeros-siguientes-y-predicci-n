@@ -1,1 +1,1 @@
-# Conjuntos-de-primeros-siguientes-y-predicci-n
+# Conjuntos de primeros, siguientes y predicción
